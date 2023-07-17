@@ -5,8 +5,8 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <link rel="manifest" href="https://teal-capybara-ab4174.netlify.app/manifest.json" />
-      <link rel="apple-touch-icon" href="https://teal-capybara-ab4174.netlify.app/icon.png" />
+      <link rel="manifest" href="/manifest.json" />
+      <link rel="apple-touch-icon" href="/icon.png" />
       <meta
         name="theme-color"
         content="#000000"

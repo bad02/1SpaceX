@@ -76,7 +76,7 @@
     "prettier": "^2.7.1",
     "tailwindcss": "^3.2.4"
   },
-  "contributors": [
+  "contributor": [
     {
       "name": "Shivam Badoniya",
       "email": "shivambadoniya@gmail.com"

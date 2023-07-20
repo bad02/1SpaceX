@@ -6,7 +6,7 @@ const FooterComponent = () => {
       <div className="xl:w-[1280px] lg:w-[1024px] md:w-[768px]">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0 flex flex-row gap-x-2">
-            <a href="https://1spacex.com/" className="flex items-center">
+            <a href=" / " className="flex items-center">
               <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white font-space">
                 1SpaceX
               </span>
